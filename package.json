@@ -1,0 +1,28 @@
+{
+  "name": "outstanding-token-platform",
+  "version": "1.0.0",
+  "description": "Outstanding ERC-20 Token Smart Contract and Platform",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "deploy": "hardhat run scripts/deployToken.js",
+    "deploy:mumbai": "hardhat run scripts/deployToken.js --network mumbai",
+    "deploy:goerli": "hardhat run scripts/deployToken.js --network goerli",
+    "deploy:sepolia": "hardhat run scripts/deployToken.js --network sepolia",
+    "deploy:polygon": "hardhat run scripts/deployToken.js --network polygon",
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "node": "hardhat node",
+    "client": "cd client && npm start",
+    "client:build": "cd client && npm run build",
+    "install:all": "npm install && cd client && npm install"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.28.4"
+  },
+  "dependencies": {
+    "create-react-app": "^5.1.0"
+  }
+}
