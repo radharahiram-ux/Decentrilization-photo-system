@@ -1,4 +1,4 @@
-# 🌟 Outstanding Token (OUT) - Complete ERC-20 Platform
+## 🌟 Outstanding Token (OUT) - Complete ERC-20 Platform
 
 <div align="center">
 
