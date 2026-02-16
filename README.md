@@ -1,5 +1,4 @@
-# 🌟 Outstanding Token (OUT) - Complete ERC-20 Platform
-
+#
 <div align="center">
 
 ![Token Banner](https://img.shields.io/badge/Blockchain-ERC--20-blue?style=for-the-badge&logo=ethereum)
