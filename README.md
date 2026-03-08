@@ -1,4 +1,4 @@
-## Decentrilization-photo-system
+# Decentrilization-photo-system
 
 <div align="center">
 
